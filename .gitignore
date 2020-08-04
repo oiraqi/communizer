@@ -1,0 +1,16 @@
+
+# Created by https://www.gitignore.io/api/java
+# Edit at https://www.gitignore.io/?templates=java
+
+# Folders To Exclude #
+.gradle
+*.class
+!gradle/wrapper/gradle-wrapper.jar
+framework/.settings/*
+framework/.vscode/*
+framework/bin/*
+framework/build/*
+framework/com/*
+framework/java/*
+framework/net/*
+# End of https://www.gitignore.io/api/java
