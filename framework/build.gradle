@@ -1,0 +1,18 @@
+apply plugin: 'java'
+apply plugin: 'application'
+
+mainClassName = 'io.communizer.emulator.Emulator'
+
+repositories {
+    mavenCentral()
+    maven {
+        url "http://repository.apache.org/snapshots"
+    }
+}
+
+sourceCompatibility = 1.8
+targetCompatibility = 1.8
+
+dependencies {
+    compile "org.apache.commons:commons-math3:3.3"
+}
