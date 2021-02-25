@@ -7,3 +7,8 @@ Communizer is a collaborative cloud-based framework that creates communities of 
 We also design a trust-based multi-level alert coordination system, as well as a lightweight alert coordination message exchange format. In particular, our coordination system addresses insider attacks by detecting and blacklisting untrustworthy members. It also identifies and neutralizes selfish members through a specifically designed probabilistic model.
 
 The analysis, optimization and evaluation of our framework show a drastic reduction of the monitoring load on community members, while ensuring a high attack detection rate, even for small-scope attacks.
+
+## Architecture
+<p align="center">
+  <img src="architecture/Communizer-Parallelized.png">
+</p>
