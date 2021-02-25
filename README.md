@@ -12,3 +12,6 @@ The analysis, optimization and evaluation of our framework show a drastic reduct
 <p align="center">
   <img src="architecture/Communizer-Parallelized.png">
 </p>
+
+## Related Projects
+- [Immunizer: A Scalable Loosely-Coupled Self-Protecting Software Framework using Adaptive Microagents and Parallelized Microservices](https://github.com/oiraqi/immunizer)
