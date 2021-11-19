@@ -1,4 +1,4 @@
-# Communizer: A Collaborative Cloud-based Self-Protecting Software Communities Framework
+# A Collaborative Could-based Unsupervised Immunity Framework For Self-Protecting Software Communities
 
 Popular software has always been appealing to adversaries, as related vulnerabilities are synonymous with millions of exposed businesses. Collaborative intrusion detection, as well as software self-protection try to alleviate this situation, but lack either autonomy and adaptation or Internet-scale oversight and mitigation.
 
